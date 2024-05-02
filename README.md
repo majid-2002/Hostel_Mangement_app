@@ -17,7 +17,7 @@ This is a web application specifically designed for allocating hostel rooms to s
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/hostel-room-allocation.git
+    git clone https://github.com/majid-2002/Hostel_Mangement_app.git
     ```
 
 2. Install dependencies:
