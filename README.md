@@ -23,17 +23,19 @@ This is a web application specifically designed for allocating hostel rooms to s
 2. Install dependencies:
 
 #### Frontend
-    ```bash
-    cd frontend
-    npm install
-    npm run dev
-    ```
+
+   ```bash
+   cd Frontend
+   npm install
+   npm run dev
+   ```
 
 #### Backend
-    ```bash
-    cd backend
-    npm install
-    ```
+
+   ```bash
+   cd Backend
+   npm install
+   ```
 
 4. Configure the environment:
 
