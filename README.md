@@ -16,9 +16,9 @@ This is a web application specifically designed for allocating hostel rooms to s
 
 1. Clone the repository to your local machine:
 
-    ```bash
-    git clone https://github.com/majid-2002/Hostel_Mangement_app.git
-    ```
+   ```bash
+   git clone https://github.com/majid-2002/Hostel_Mangement_app.git
+   ```
 
 2. Install dependencies:
 
@@ -52,18 +52,7 @@ This is a web application specifically designed for allocating hostel rooms to s
 ## Usage
 
 1. Access the application through your web browser.
-2. Students can log in using their credentials and reserve hostel rooms.
-3. Admins can access the admin dashboard to manage student data, view reports, and allocate rooms.
+2. Staff can log in using their credentials and reserve hostel rooms.
+3. Staff can access the dashboard to manage student data, view reports, and allocate rooms.
 4. The system automatically allocates rooms based on predefined criteria, but admins can manually intervene if necessary.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit bug reports, feature requests, or pull requests to help improve this project.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize and expand upon this README according to your project's specific requirements and features!
